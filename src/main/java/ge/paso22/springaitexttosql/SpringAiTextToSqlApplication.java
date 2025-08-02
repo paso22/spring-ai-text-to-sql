@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringAiTextToSqlApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpringAiTextToSqlApplication.class, args);
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(SpringAiTextToSqlApplication.class, args);
+  }
 }
